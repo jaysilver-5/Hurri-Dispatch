@@ -11,7 +11,7 @@ function privacy() {
                 <div className='flex flex-col gap-y-2'>
                     <h1 className='text-[32px] font-primary font-thin'>Our Privacy Policy</h1>
                     <p>
-                        At Hurri Logistics, we value your privacy and are committed to protecting your personal information. This Privacy Policy outlines how we collect, use, disclose, and safeguard your data when you interact with our services, website, and mobile applications (collectively referred to as "Services"). By using our Services, you consent to the practices described in this Privacy Policy.
+                        At Hurri Logistics, we value your privacy and are committed to protecting your personal information. This Privacy Policy outlines how we collect, use, disclose, and safeguard your data when you interact with our services, website, and mobile applications (collectively referred to as &quot;Services&quot;). By using our Services, you consent to the practices described in this Privacy Policy.
                     </p>
                 </div>   
 
